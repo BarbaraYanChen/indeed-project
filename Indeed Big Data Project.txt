@@ -1,0 +1,18 @@
+Indeed Big Data Project
+
+____Goal:
+The goal of this project is to analyze the data results obtained from scraping the website Indeed.com
+
+____Audience:
+This is sproject is intended for the "bigdata_b6_indeed_proj" team at WeCloudData
+
+____Objectives:
+1. First, the web scraping script (provided by Shaohua) will be run, mining info from Indeed.com
+
+____Purpose:
+TBD(this will be a prediction based on the data, i.e. data scientist salary trends)
+
+Purpose 1 - use a resume to get technical key words and then analyze indeed listings to see which jobs are most suitable for a given resume. possibility to expand - email best jobs on regular basis
+Purpose 2 - to be filled by Vaughn
+Purpose 3 - analyze job characteristics in different cities?
+Purpose 4 - ?
